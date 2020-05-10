@@ -1,21 +1,25 @@
 # evote-python-software
+> GUI software for college elections like Secretary elections
 
-This is a pure Python software that can be used during college elections like Secretary election, Joint Secretary election, Representative election, etc.
+## Overview
+- These many days we vote using pen & paper. Probability of malpractice is very high
+- This software helps us to conduct elections in traditional manner but digitally. 
+- Voters can vote for maximum one representative and various initiatives were taken in-order to avoid malpractices. 
+- Final result is stored in Excel sheet in protected mode so that the result cannot be modified .
+- The backend part to store result is under development process.
 
-The main motives of this software is to promote Digital India, reduce malpractices and maintain confidentiality.
 
-This requires admin password at the 1st step. The process cannot be clossed untill the secret transparent button is pressed.
+## Precautions
+* Install all required modules and packages.
+* This is to learn how to create GUI software using Python module(TKinter).
 
-The procedure is similar to normal voting but digitally instead of paper.
-Each process is done in individual windows.
 
-The final result is stored attractivly in excel sheet which is protected so that the data or result is not changed.
+## Contact
+* _GitHub_ : [nuras1999](https://www.github.com/nuras1999)
+* _LinkedIn_ : [nuras](https://www.linkedin.com/in/nuras)
+* _HackerRank_ : [nuras1999](https://www.hackerrank.com/nuras1999)
+* _Instagram_ : [arun](https://www.instagram.com/arun___.___)
 
-For GUI TKinter module is used.
 
-THE CODE IS 80% COMPLETED. BACKEND STORING OF DATA IN EXCEL IS STILL PENDING. 
-
-This helps to understand how to use Tkinter modules to create attractive GUI using Python.
-
-|..Explore. Code. Explore..|
+**_|..Explore. Code. Explore..|_**
 
